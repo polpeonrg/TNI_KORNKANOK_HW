@@ -23,6 +23,9 @@ body {
   margin: 0;
   background-color: #8da0a4;
 }
+section {
+  margin: 0 30px;
+}
 nav {
   color: #b0bfc2;
   padding: 5px 0 0 0;
@@ -34,11 +37,13 @@ h1 {
 
 div p,
 a {
-  text-decoration: none;
-  display: inline-block;
   color: #202723;
   font-size: 18px;
   margin: 10px 0 0 0;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
 }
 
 .link {

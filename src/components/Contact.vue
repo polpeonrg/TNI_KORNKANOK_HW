@@ -32,9 +32,6 @@ export default {};
 </script>
 
 <style>
-section {
-  margin: 0 30px;
-}
 .icon-small {
   margin-right: 15px;
   display: inline-block;
